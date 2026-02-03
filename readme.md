@@ -10,6 +10,8 @@
 ``git add .``
 ``git commit -m "v1"``
 ``git branch -M master``
+``git remote add origin https://github.com/Juan0j/v1.git``
+``git push origin master``
 
 # 📁Estructura profesionales de una API en NODE.js
 api-node
